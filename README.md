@@ -224,8 +224,6 @@ A **vibe-coded hackathon prototype** exploring ideas around intelligent traffic 
 
 ## 📊 `// GITHUB ACTIVITY`
 
-## 📊 `// GITHUB ACTIVITY`
-
 <div align="center">
 
 <img
@@ -242,10 +240,25 @@ A **vibe-coded hackathon prototype** exploring ideas around intelligent traffic 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Harsh-depot/Harsh-depot/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Harsh-depot/Harsh-depot/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Harsh-depot/Harsh-depot/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Harsh-depot/Harsh-depot/output/github-contribution-grid-snake.svg"
+  />
+
+</picture>
 
 </div>
-
 ---
 
 ## 🌐 `// LET'S CONNECT`
