@@ -71,38 +71,6 @@ I enjoy turning ideas into functional, beautifully designed software — from so
 
 ---
 
-## 🏆 `// GITHUB PROFILE SUMMARY`
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harsh-depot&theme=tokyonight" width="100%" alt="GitHub Profile Details" />
-</div>
-
----
-
-## 📊 `// STATS & DASHBOARD`
-
-<div align="center">
-
-<table border="0">
-  <tr>
-    <td width="50%">
-      <img src="https://github-stats-extended.vercel.app/api?username=Harsh-depot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harsh-depot&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-depot&theme=tokyonight&hide_border=true" width="98%" alt="GitHub Streak Stats" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ## ⭐ `// FEATURED PROJECTS`
 
 <div align="center">
@@ -119,23 +87,20 @@ I enjoy turning ideas into functional, beautifully designed software — from so
 
 ---
 
-## 🐍 `// CONTRIBUTION ANIMATION & GRAPH`
+## 📊 `// GITHUB DASHBOARD & STATS`
 
 <div align="center">
 
-### Contribution Snake 🐍
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Harsh-depot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Harsh-depot&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak Stats" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harsh-depot/Harsh-depot/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harsh-depot/Harsh-depot/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Harsh-depot/Harsh-depot/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
+<br>
 
-<br><br>
-
-### Activity Graph 📈
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-depot&bg_color=0B1020&color=8B5CF6&line=6366F1&point=3B82F6&area=true&hide_border=true" width="95%" alt="Activity Graph" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-depot&bg_color=0B1020&color=8B5CF6&line=6366F1&point=3B82F6&area=true&hide_border=true" width="96%" alt="Activity Graph" />
+</p>
 
 </div>
 
@@ -143,10 +108,7 @@ I enjoy turning ideas into functional, beautifully designed software — from so
 
 ## 🎓 `// BEYOND CODE & EXPERIENCES`
 
-<details>
-<summary><b>🔍 Click to expand Co-Curriculars & Activities</b></summary>
-
-<br>
+<div align="center">
 
 | Icon | Activity / Experience | Details |
 | :---: | :--- | :--- |
@@ -155,16 +117,6 @@ I enjoy turning ideas into functional, beautifully designed software — from so
 | 🛡️ | **CyberCell** | Technical & Organizational Experience |
 | 🤖 | **Robonixx** | Technical Club Experience |
 | 🏀 | **Basketball** | College Team Member |
-
-</details>
-
----
-
-## 💬 `// DEV INSIGHTS & QUOTE`
-
-<div align="center">
-
-<img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight&card_width=500" alt="Dev Quote" />
 
 </div>
 
