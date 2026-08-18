@@ -1,7 +1,5 @@
 ---
 
----
-
 ## 🖥️ // HARSH OS
 
 <div align="center">
