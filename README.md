@@ -1,5 +1,4 @@
 
-````markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,35:4C1D95,65:6366F1,100:2563EB&height=240&section=header&text=HARSHVARDHAN%20RAJ&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20IN%20THE%20MAKING&descAlignY=60&descSize=17" width="100%"/>
@@ -422,7 +421,5 @@ src="https://raw.githubusercontent.com/Harsh-depot/Harsh-depot/output/github-con
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,35:6366F1,65:4C1D95,100:1E1B4B&height=130&section=footer"/>
-
-```
 
 ```
