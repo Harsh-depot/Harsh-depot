@@ -83,8 +83,8 @@
 | :--- | :--- | :--- |
 | **CSE Degree** | Computer Science & Engineering | Final-Year Student |
 | **Java Full Stack Intern** | AICTE • EduSkills | Software Engineering Training |
-| **CyberCell Member** | CyberCell Technical Team | Cybersecurity & Event Organization |
-| **Robonixx Club Member** | Robonixx Robotics Club | Technical Projects & Workshops |
+| **Robonixx Club Member** | Robonixx Event Management Head | Technical Projects & Workshops |
+| **CyberCell Member** | CyberCell Public Relations Team | Cybersecurity & Event Organization |
 | **Varsity Athlete** | College Basketball Team | Team Dynamics & Sportsmanship |
 
 </div>
