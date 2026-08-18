@@ -103,16 +103,20 @@
 
 <br><br>
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Harsh-depot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Harsh-depot&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats" />
-</p>
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-stats-extended.vercel.app/api?username=Harsh-depot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://streak-stats.demolab.com?user=Harsh-depot&theme=tokyonight&hide_border=true" width="100%" alt="Streak Stats" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-depot&bg_color=0F172A&color=8B5CF6&line=6366F1&point=3B82F6&area=true&hide_border=true" width="96%" alt="Activity Graph" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-depot&bg_color=0F172A&color=8B5CF6&line=6366F1&point=3B82F6&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 
 </div>
 
