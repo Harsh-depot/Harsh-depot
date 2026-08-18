@@ -1,26 +1,58 @@
+---
+
+## 🖥️ // HARSH OS
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,35:4C1D95,65:6366F1,100:2563EB&height=240&section=header&text=HARSHVARDHAN%20RAJ&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20IN%20THE%20MAKING&descAlignY=60&descSize=17" width="100%"/>
-
-### `JAVA  •  WEB  •  DATABASES  •  AI`
-
-<br>
-
-<a href="https://harshvardhan-portfolio-three.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20LIVE%20PORTFOLIO-8B5CF6?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/harshvardhan-raj-dev/">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-2563EB?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Harsh-depot">
-<img src="https://img.shields.io/badge/◉%20GITHUB-111827?style=for-the-badge"/>
-</a>
-
-</div>
-
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   ██╗  ██╗ █████╗ ██████╗ ███████╗██╗  ██╗                  │
+│   ██║  ██║██╔══██╗██╔══██╗██╔════╝██║  ██║                  │
+│   ███████║███████║██████╔╝███████╗███████║                  │
+│   ██╔══██║██╔══██║██╔══██╗╚════██║██╔══██║                  │
+│   ██║  ██║██║  ██║██║  ██║███████║██║  ██║                  │
+│   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝                  │
+│                                                              │
+│                 DEVELOPER OPERATING SYSTEM                   │
+│                                                              │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  > booting harsh.dev................................ [OK]    │
+│  > loading developer profile......................... [OK]    │
+│  > initializing projects............................. [OK]    │
+│  > connecting to github............................... [OK]    │
+│                                                              │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  USER        : HARSHVARDHAN RAJ                              │
+│  ROLE        : FINAL-YEAR CSE STUDENT                        │
+│  MODE        : BUILD                                         │
+│  STATUS      : ONLINE                                        │
+│                                                              │
+│  CURRENT PROJECT                                             │
+│  └── NEXORA // AI-INTEGRATED APPLICATION                    │
+│                                                              │
+│  ACTIVE STACK                                                │
+│  ├── Java                                                     │
+│  ├── Web Development                                          │
+│  ├── MySQL                                                    │
+│  └── AI Integration                                           │
+│                                                              │
+│  CURRENT MISSION                                             │
+│  └── Become a better software engineer                       │
+│                                                              │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  SYSTEM                                                       │
+│  ├── BUILDING      ████████████████████░░░░░░                │
+│  ├── LEARNING      ██████████████████████░░░░                │
+│  ├── EXPLORING     ████████████████░░░░░░░░░                │
+│  └── SHIPPING      ███████████████░░░░░░░░░░                │
+│                                                              │
+│  > system ready_                                             │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 ---
 
 # 🖥️ `> TERMINAL`
