@@ -1,6 +1,6 @@
 ---
 ---
-
+````markdown
 ## 🖥️ // HARSH OS
 
 <div align="center">
@@ -8,9 +8,9 @@
 ```text
 ╭──────────────────────────────────────────────────────────────╮
 │                                                              │
-│                    H A R S H . D E V                         │
+│                     H A R S H . D E V                        │
 │                                                              │
-│              DEVELOPER OPERATING SYSTEM                      │
+│                 DEVELOPER OPERATING SYSTEM                   │
 │                                                              │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
@@ -49,6 +49,15 @@
 │  > system ready_                                             │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
+````
+
+### `HARSH.DEV // SYSTEM READY`
+
+**BUILDING • LEARNING • EXPLORING**
+
+</div>
+````
+
 # 🖥️ `> TERMINAL`
 
 ```text
