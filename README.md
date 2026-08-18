@@ -224,19 +224,15 @@ A **vibe-coded hackathon prototype** exploring ideas around intelligent traffic 
 
 ## 📊 `// GITHUB ACTIVITY`
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Harsh-depot&show_icons=true&hide_border=true&bg_color=0B1020&title_color=8B5CF6&icon_color=3B82F6&text_color=FFFFFF&ring_color=8B5CF6" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-depot&layout=compact&hide_border=true&bg_color=0B1020&title_color=8B5CF6&text_color=FFFFFF" height="180"/>
-
-</div>
-
-<br>
+## 📊 `// GITHUB ACTIVITY`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Harsh-depot&theme=dark&hide_border=true&background=0B1020&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-depot&bg_color=0B1020&color=8B5CF6&line=6366F1&point=3B82F6&area=true&hide_border=true"
+  width="95%"
+  alt="GitHub Activity Graph"
+/>
 
 </div>
 
