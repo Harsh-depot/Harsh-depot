@@ -6,8 +6,8 @@
 
 <p>
   <a href="https://harshvardhan-portfolio-three.vercel.app/">🌐 Portfolio</a> •
-  <a href="YOUR_LINKEDIN_URL">💼 LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL">📧 Email</a>
+  <a href="https://www.linkedin.com/in/harshvardhan-raj-dev/">💼 LinkedIn</a> •
+  <a href="mailto:harsh18092004vardhan@gmail.com">📧 Email</a>
 </p>
 
 </div>
@@ -26,7 +26,7 @@ I'm interested in **software development, modern web technologies, Java, databas
 │  🎓 Computer Science Engineering            │
 │  💻 Software Development                    │
 │  🌐 Web Technologies                        │
-│  ☕ Java & Application Development           │
+│  ☕ Java & Application Development          │
 │  🗄️ MySQL & Database Systems                │
 │  🤖 Artificial Intelligence                 │
 │                                             │
