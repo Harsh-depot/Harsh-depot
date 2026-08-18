@@ -71,10 +71,10 @@ I enjoy turning ideas into functional, beautifully designed software — from so
 
 ---
 
-## 🏆 `// GITHUB TROPHIES`
+## 🏆 `// GITHUB PROFILE SUMMARY`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harsh-depot&theme=onedark&no-frame=true&row=1&column=6" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harsh-depot&theme=tokyonight" width="100%" alt="GitHub Profile Details" />
 </div>
 
 ---
@@ -86,10 +86,10 @@ I enjoy turning ideas into functional, beautifully designed software — from so
 <table border="0">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Harsh-depot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
+      <img src="https://github-stats-extended.vercel.app/api?username=Harsh-depot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-depot&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harsh-depot&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
     </td>
   </tr>
   <tr>
