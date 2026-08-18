@@ -1,51 +1,129 @@
+Absolutely. Let's make this easy.
+
+Below is the **complete `README.md` content in one single code block**. You can click inside it → **Ctrl+A → Ctrl+C** → paste directly into your `Harsh-depot/Harsh-depot/README.md`.
+
+I’ve also corrected the tech stack to your current stack and kept **Nexora**, **TrafficOps+**, your real projects, portfolio, LinkedIn, and working contribution snake.
+
+````markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:6366F1,100:8B5CF6&height=220&section=header&text=HARSHVARDHAN%20RAJ&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FINAL-YEAR%20CSE%20STUDENT%20%E2%80%A2%20DEVELOPER%20%E2%80%A2%20BUILDER&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,35:4C1D95,65:6366F1,100:2563EB&height=240&section=header&text=HARSHVARDHAN%20RAJ&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20IN%20THE%20MAKING&descAlignY=60&descSize=17" width="100%"/>
 
-<h3>💻 Building • Learning • Exploring</h3>
+### `JAVA  •  WEB  •  DATABASES  •  AI`
 
-<p>
-  <a href="https://harshvardhan-portfolio-three.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20LIVE%20PORTFOLIO-8B5CF6?style=for-the-badge&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/harshvardhan-raj-dev/">
-    <img src="https://img.shields.io/badge/LINKEDIN-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Harsh-depot">
-    <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<br>
+
+<a href="https://harshvardhan-portfolio-three.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20LIVE%20PORTFOLIO-8B5CF6?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/harshvardhan-raj-dev/">
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Harsh-depot">
+<img src="https://img.shields.io/badge/◉%20GITHUB-111827?style=for-the-badge"/>
+</a>
 
 </div>
 
 ---
 
-## 🧑‍💻 `> whoami`
-
-I'm **Harshvardhan Raj**, a **Final-Year Computer Science Engineering student** who enjoys turning ideas into working software.
-
-My current focus is on **software development, modern web technologies, Java, databases and Artificial Intelligence**.
-
-I enjoy learning by building — from small Java applications to interactive web projects — while continuously improving my problem-solving and development skills.
+# 🖥️ `> TERMINAL`
 
 ```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│  🎓 Final-Year CSE Student                          │
-│  💻 Developer & Builder                             │
-│  🌐 Web Development                                 │
-│  ☕ Java & Application Development                  │
-│  🗄️ MySQL & Database Systems                        │
-│  🤖 AI Enthusiast                                   │
-│                                                     │
-│  STATUS: Building • Learning • Exploring            │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
+┌─────────────────────────────────────────────────────────────┐
+│ ● ● ●                                                       │
+│                                                             │
+│ harsh@github:~$ whoami                                     │
+│                                                             │
+│ Harshvardhan Raj                                            │
+│ Final-Year CSE Student | Developer & Builder | AI Enthusiast│
+│                                                             │
+│ harsh@github:~$ cat current_focus.txt                      │
+│                                                             │
+│ > Java & Application Development                            │
+│ > Web Development                                           │
+│ > MySQL & Database Systems                                  │
+│ > AI Integration                                            │
+│ > DSA & Problem Solving                                     │
+│                                                             │
+│ harsh@github:~$ ./build-nexora                              │
+│                                                             │
+│ Building something meaningful...                            │
+│                                                             │
+│ STATUS: ONLINE  ●  Building • Learning • Exploring          │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+````
 
 ---
 
-## 🛠️ `// TECH STACK`
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 👨‍💻 `> WHO I AM`
+
+**Harshvardhan Raj**
+
+🎓 Final-Year CSE Student
+💻 Developer & Builder
+🌐 Web Development
+☕ Java & Application Development
+🗄️ MySQL & Database Systems
+🤖 AI Enthusiast
+
+I enjoy learning by building real projects and turning ideas into working software.
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🎯 `> CURRENT FOCUS`
+
+```text
+JAVA
+████████████████░░
+
+WEB DEVELOPMENT
+██████████████░░░░
+
+MYSQL
+███████████░░░░░░░
+
+AI INTEGRATION
+█████████░░░░░░░░░
+
+DSA
+███████████░░░░░░░
+```
+
+**Currently exploring:**
+
+`Full Stack` • `Advanced Java` • `AI` • `DSA`
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧬 `// DEVELOPER DNA`
+
+<div align="center">
+
+|     🧠 CORE     |   🌐 WEB   |     🗄️ DATA     |       🤖 EXPLORING       |
+| :-------------: | :--------: | :--------------: | :----------------------: |
+|       Java      |    HTML    |       MySQL      |            AI            |
+|       OOP       |     CSS    |        SQL       |      AI Integration      |
+| Problem Solving | JavaScript | Database Systems | Intelligent Applications |
+
+</div>
+
+---
+
+# 🛠️ `// TECH STACK`
 
 ### 💻 Languages
 
@@ -64,13 +142,7 @@ I enjoy learning by building — from small Java applications to interactive web
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🤖 AI
-
-<p>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-8B5CF6?style=for-the-badge&logoColor=white"/>
-</p>
-
-### 🧰 Tools
+### 🔧 Tools
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -81,103 +153,26 @@ I enjoy learning by building — from small Java applications to interactive web
 
 ---
 
-## 🚀 `// CURRENTLY EXPLORING`
-
-<table>
-<tr>
-<td align="center" width="25%">🌐<br><b>Full Stack</b><br>Development</td>
-<td align="center" width="25%">🤖<br><b>AI</b><br>Integration</td>
-<td align="center" width="25%">☕<br><b>Advanced</b><br>Java</td>
-<td align="center" width="25%">🧠<br><b>DSA</b><br>& Problem Solving</td>
-</tr>
-</table>
-
----
-
-# ⭐ `// FEATURED WORK`
-
-### 🖥️ Personal Developer Portfolio
-
-My personal portfolio and professional landing page — showcasing my projects, technical skills, experiences, activities and journey as a Computer Science Engineering student.
-
-**Built with:** `HTML` `CSS` `JavaScript` `React` `Vite`
-
-<p>
-<a href="https://harshvardhan-portfolio-three.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-8B5CF6?style=for-the-badge"/>
-</a>
-<a href="https://github.com/Harsh-depot/harshvardhan-portfolio">
-<img src="https://img.shields.io/badge/📂%20SOURCE%20CODE-111827?style=for-the-badge"/>
-</a>
-</p>
-
----
-
-### 🔐 Text Encryption Toolkit
-
-A Java command-line toolkit implementing classic text encryption and text manipulation techniques.
-
-**Features include:**
-
-`Caesar Cipher` • `ROT13` • `Reverse Cipher` • `Letter Frequency Counter`
-
-**Built with:** `Java` `Java Standard Library`
-
-<p>
-<a href="https://github.com/Harsh-depot/text-encryption-toolkit-java">
-<img src="https://img.shields.io/badge/📂%20VIEW%20PROJECT-6366F1?style=for-the-badge"/>
-</a>
-</p>
-
----
-
-### 📚 Library Management System
-
-A console-based Library Management System developed using Java and object-oriented programming principles.
-
-**Features include:**
-
-`Book Management` • `User Management` • `Issue / Return` • `File Persistence`
-
-**Built with:** `Java` `OOP` `File Handling`
-
-<p>
-<a href="https://github.com/Harsh-depot/LMS">
-<img src="https://img.shields.io/badge/📂%20VIEW%20PROJECT-6366F1?style=for-the-badge"/>
-</a>
-</p>
-
----
-
-### 🎮 Tic Tac Toe
-
-A Java implementation of the classic Tic Tac Toe game and one of my early Java projects.
-
-**Built with:** `Java`
-
-<p>
-<a href="https://github.com/Harsh-depot/TicTacToe">
-<img src="https://img.shields.io/badge/📂%20VIEW%20PROJECT-6366F1?style=for-the-badge"/>
-</a>
-</p>
-
----
-
-## 🚧 `// CURRENTLY BUILDING`
+# 🤖 `// CURRENTLY BUILDING`
 
 <div align="center">
 
-### 🤖 NEXORA
+## `NEXORA`
 
-**AI-Integrated Application**
+### AI-INTEGRATED APPLICATION
+
+```text
+THINK  →  BUILD  →  AUTOMATE
+```
 
 > An upcoming project exploring the integration of Artificial Intelligence with modern software development.
 
 ```text
 BUILD STATUS
 
-████████░░░░░░░░░░░░░░░░  IN DEVELOPMENT
+████████████░░░░░░░░░░░░
 
+IN DEVELOPMENT
 COMING SOON...
 ```
 
@@ -185,83 +180,225 @@ COMING SOON...
 
 ---
 
-## 🧪 `// HACKATHON EXPERIMENTS`
-
-### 🚦 TrafficOps+
-
-A **vibe-coded hackathon prototype** exploring ideas around intelligent traffic management.
-
-> Experimental project created during a hackathon to explore the concept. It is **not intended to represent my current technical specialization**.
-
----
-
-## 🏆 `// BEYOND CODE`
+# ⭐ `// FEATURED PROJECTS`
 
 <table>
 <tr>
-<td>🎓</td>
-<td><b>Computer Science Engineering</b><br>Final-Year Student</td>
+
+<td width="50%" valign="top">
+
+### 🖥️ Personal Portfolio
+
+My personal developer portfolio showcasing my projects, skills, activities and journey.
+
+**Stack**
+
+`HTML` `CSS` `JavaScript`
+
+<a href="https://harshvardhan-portfolio-three.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-8B5CF6?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Harsh-depot/harshvardhan-portfolio">
+<img src="https://img.shields.io/badge/</>%20SOURCE-111827?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔐 Text Encryption Toolkit
+
+Java command-line toolkit implementing classical text encryption and text manipulation techniques.
+
+**Features**
+
+`Caesar Cipher` `ROT13` `Reverse Cipher` `Frequency Counter`
+
+**Stack**
+
+`Java` `CLI`
+
+<a href="https://github.com/Harsh-depot/text-encryption-toolkit-java">
+<img src="https://img.shields.io/badge/📂%20SOURCE%20CODE-6366F1?style=for-the-badge"/>
+</a>
+
+</td>
+
 </tr>
+
 <tr>
-<td>💻</td>
-<td><b>Java Full Stack Internship</b><br>AICTE • EduSkills</td>
-</tr>
-<tr>
-<td>🛡️</td>
-<td><b>CyberCell</b><br>Technical & Organizational Experience</td>
-</tr>
-<tr>
-<td>🤖</td>
-<td><b>Robonixx</b><br>Technical Club Experience</td>
-</tr>
-<tr>
-<td>🏀</td>
-<td><b>Basketball</b><br>College Team</td>
+
+<td width="50%" valign="top">
+
+### 📚 Library Management System
+
+Console-based library management system demonstrating OOP and file persistence.
+
+**Features**
+
+`Book Management` `User Management` `Issue/Return` `File Persistence`
+
+**Stack**
+
+`Java` `OOP` `File Handling`
+
+<a href="https://github.com/Harsh-depot/LMS">
+<img src="https://img.shields.io/badge/📂%20SOURCE%20CODE-6366F1?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎮 Tic Tac Toe
+
+A Java implementation of the classic Tic Tac Toe game and one of my early Java projects.
+
+**Stack**
+
+`Java`
+
+<a href="https://github.com/Harsh-depot/TicTacToe">
+<img src="https://img.shields.io/badge/📂%20SOURCE%20CODE-6366F1?style=for-the-badge"/>
+</a>
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-## 📊 `// GITHUB ACTIVITY`
+# 🗺️ `// DEVELOPER JOURNEY`
+
+```text
+2023
+ │
+ ├── Started my coding journey
+ └── Programming fundamentals
+ │
+ ▼
+2024
+ │
+ ├── Dived deeper into Java
+ ├── OOP & Data Structures
+ └── Started building applications
+ │
+ ▼
+2025
+ │
+ ├── Java Full Stack Internship
+ ├── Built real-world academic projects
+ └── Strengthened development fundamentals
+ │
+ ▼
+2026
+ │
+ ├── Final-Year CSE Student
+ ├── Web Development
+ ├── MySQL
+ ├── AI exploration
+ └── Building Nexora
+ │
+ ▼
+NEXT
+ │
+ └── 🚀 Software Engineer
+```
+
+---
+
+# 🏆 `// BEYOND CODE`
+
+<div align="center">
+
+|       🏀       |       🤖       |                  🛡️                  |          💻         |
+| :------------: | :------------: | :-----------------------------------: | :-----------------: |
+| **Basketball** |  **Robonixx**  |             **CyberCell**             | **Java Internship** |
+|  College Team  | Technical Club | Technical & Organizational Experience |  AICTE • EduSkills  |
+
+</div>
+
+---
+
+# 🧪 `// HACKATHON EXPERIMENT`
+
+### 🚦 TrafficOps+
+
+A **vibe-coded hackathon prototype** exploring concepts around intelligent traffic management.
+
+> Experimental hackathon work created to explore an idea. It does **not** represent my current technical specialization.
+
+---
+
+# 📊 `// GITHUB ACTIVITY`
 
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-depot&bg_color=0B1020&color=8B5CF6&line=6366F1&point=3B82F6&area=true&hide_border=true"
-  width="95%"
-  alt="GitHub Activity Graph"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-depot&bg_color=0B1020&color=8B5CF6&line=6366F1&point=3B82F6&area=true&hide_border=true"
+width="95%"
+alt="GitHub Activity Graph"
 />
 
 </div>
 
 ---
 
-## 🐍 `// CONTRIBUTION ACTIVITY`
+# 🐍 `// CONTRIBUTION ACTIVITY`
 
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Harsh-depot/Harsh-depot/output/github-contribution-grid-snake-dark.svg"
-  />
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Harsh-depot/Harsh-depot/output/github-contribution-grid-snake.svg"
-  />
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Harsh-depot/Harsh-depot/output/github-contribution-grid-snake-dark.svg"
+/>
 
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/Harsh-depot/Harsh-depot/output/github-contribution-grid-snake.svg"
-  />
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Harsh-depot/Harsh-depot/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/Harsh-depot/Harsh-depot/output/github-contribution-grid-snake.svg"
+/>
 
 </picture>
 
 </div>
+
 ---
 
-## 🌐 `// LET'S CONNECT`
+# 🌌 `// SYSTEM STATUS`
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  HARSH.DEV // SYSTEM STATUS                         │
+│                                                      │
+│  PORTFOLIO       ● ONLINE                            │
+│  GITHUB          ● ACTIVE                            │
+│  NEXORA          ● BUILDING                          │
+│  JAVA            ● DEVELOPING                        │
+│  WEB             ● BUILDING                          │
+│  AI              ● EXPLORING                         │
+│                                                      │
+│  CURRENT MISSION                                    │
+│  └─ Become a better software engineer               │
+│                                                      │
+│  STATUS                                             │
+│  └─ BUILDING • LEARNING • EXPLORING                │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🌐 `// LET'S CONNECT`
 
 <div align="center">
 
@@ -270,11 +407,11 @@ A **vibe-coded hackathon prototype** exploring ideas around intelligent traffic 
 </a>
 
 <a href="https://www.linkedin.com/in/harshvardhan-raj-dev/">
-<img src="https://img.shields.io/badge/LINKEDIN-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Harsh-depot">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="mailto:harsh18092004vardhan@gmail.com">
+<img src="https://img.shields.io/badge/✉️%20EMAIL-6366F1?style=for-the-badge"/>
 </a>
 
 </div>
@@ -289,4 +426,21 @@ A **vibe-coded hackathon prototype** exploring ideas around intelligent traffic 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:3B82F6&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,35:6366F1,65:4C1D95,100:1E1B4B&height=130&section=footer"/>
+
+```
+
+### One small correction before you paste
+
+I intentionally left **React/Vite out of your main tech stack**, because you told me your current stack is:
+
+**HTML · CSS · JavaScript · Java · MySQL · AI · Python · Git · GitHub · VS Code · IntelliJ IDEA**
+
+And I kept **TrafficOps+ separate from your actual project/tech identity**.
+
+Now you can simply:
+
+**Ctrl+A → Ctrl+C → GitHub README → Ctrl+A → Ctrl+V → Commit changes.**
+
+After GitHub renders it, **don't make any changes yet**. Send me a screenshot of the result and we'll compare it against the cyberpunk reference and then add the genuinely out-of-the-box element—the **animated terminal**—as the next layer.
+```
